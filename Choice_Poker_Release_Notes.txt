@@ -1,0 +1,16 @@
+Choice poker 1.0 release notes
+
+Bem vindo ao Choice Poker. Para jogar, deve-se primeiro estar rodando o servidor NetGames em sua máquina. Após isso, abrir o Choice Poker e clicar em conectar no menu do canto superior direito. Fazer o mesmo para o jogador 2. Agora, o jogador 1 deve clicar em iniciar partida no mesmo menu, assim o jogador 2 automaticamente recebe o início de partida e a partida é iniciada. Agora é só se divertir. Bom jogo!
+
+Como jogar: 
+Jogador 1: Clicar em receber.
+Jogador 2: Clicar em receber.
+Jogador 1: Clicar em Trocar Cartas, uma ou duas vezes dependendo de quantas cartas quer descartar.
+Jogador 2: Clicar em Trocar Cartas, uma ou duas vezes dependendo de quantas cartas quer descartar.
+Jogador 1 e 2: Clicar em apostar em seu turno respectivo, até que algum deles clique em check, tendo menos fichas apostadas que o outro.
+Jogador "check": Clicar em check.
+Jogador "não check": Clicar em check e decidir a condição de vitória.
+Agora é mostrado aos jogadores quem ganhou e quem perdeu.
+Jogador "check': Se torna o jogador 1 e reinicia o processo.
+
+Obs.: Caso as mãos de ambos os jogadores sejam de mesmo tipo (ver botão "guia" na interface), ganha aquele jogador que tiver a maior carta, independente se fizer parte do tipo da mão ou não. A carta Às, tradicionalmente a de valor mais alto, neste jogo é a de valor mais baixo.
